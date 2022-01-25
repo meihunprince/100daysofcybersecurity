@@ -4,15 +4,6 @@ In simple words flooding the space with excess amount
 of data (larger than the allocated space) is called
 Over flow .
 
-Wats happening on memory level
-
-
-![](https://user-images.githubusercontent.com/81508677/150897156-d37290a8-eeb4-4592-a124-6a5858b127e6.jpg)
-
-![](https://user-images.githubusercontent.com/81508677/150897174-0a43f92e-a15a-4dd1-acb6-7e895c4ae736.jpg)
-
-![](https://user-images.githubusercontent.com/81508677/150897201-d9fd216f-48db-4d5e-a4b7-a4b9b66cea55.jpg)
-
 Overflow occurs in stack part which follows LIFO.
 ESP - Extended Stack Pointer 
 EBP - Extended Base Pointer 
