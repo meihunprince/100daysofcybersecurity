@@ -1,10 +1,5 @@
 •Day 1
 #Buffer Overflow - basics things to know
-
-In simple words flooding the space with excess amount 
-of data (larger than the allocated space) is called
-Over flow .
-
 Overflow occurs in stack part which follows LIFO.
 ESP - Extended Stack Pointer 
 EBP - Extended Base Pointer 
@@ -12,6 +7,5 @@ EIP - Extended Instruction Pointer
 EIP is main part coz it redirect or return the code to run
 and when the overflow occurs it simply return the code 
 which the attacker wants to run.
-
 Buffer overflows are challenging to find,
 when you detect one, it is generally hard to exploit.
